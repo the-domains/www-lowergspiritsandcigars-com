@@ -1,0 +1,28 @@
+name: www.lowergspiritsandcigars.com
+favicon: null
+layout_spectrum: 0.29842650843784213
+typography_spectrum: 0.007542255567386746
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8221903729718179
+  lightness: 0.8677447570953518
+  saturation: 0.3840903185773641
+  rhythmicContrast: 0.5171452860813588
+purpose: []

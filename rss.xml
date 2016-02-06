@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[www.lowergspiritsandcigars.com]]></title>
+        <description><![CDATA[www.lowergspiritsandcigars.com]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 06 Feb 2016 17:35:11 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/13dca510-e1ef-4ac8-ab6e-b1b68716a6be.jpg">]]></description>
+            <link>undefinede2183829-88a4-4f6b-8ba5-1cbd69107446/index.html</link>
+            <guid isPermaLink="false">e2183829-88a4-4f6b-8ba5-1cbd69107446</guid>
+            <pubDate>Sat, 06 Feb 2016 17:35:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
